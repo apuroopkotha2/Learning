@@ -16,6 +16,7 @@ Overall, the analysis provides valuable insights into customer sentiment over ti
 The sentiment analysis allows understanding how customers feel about products, while the topic modeling helps identify recurring subjects discussed in the reviews. 
 The process combines various NLP techniques and libraries to derive meaningful information from the text data, facilitating data-driven decision-making and actionable insights for business or research purposes.
 
-The Link to Dataset: - 
-1. https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Apparel_v1_00.tsv 
+You can download the dataset from the following URL:
+
+[Amazon US Customer Reviews Dataset](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Apparel_v1_00.tsv)
 
